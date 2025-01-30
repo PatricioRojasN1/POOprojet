@@ -1,2 +1,2 @@
 Patricio
-POO
+class "POO"
